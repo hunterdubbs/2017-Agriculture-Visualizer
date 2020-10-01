@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587594727419.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2990958692",
+    "id" : "DFFEC27D",
+    "lastKnownWriteTime" : 1601579105,
+    "last_content_update" : 1601579105628,
+    "path" : "D:/2017 Agriculture Visualizer/app.R",
+    "project_path" : "app.R",
+    "properties" : {
+        "cursorPosition" : "23,61",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
